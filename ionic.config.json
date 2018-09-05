@@ -1,0 +1,8 @@
+{
+  "name": "../sample-ionic-circleci/",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "340dec1e"
+}
